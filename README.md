@@ -16,7 +16,8 @@ apply all the yaml files
 check the databse 
 create new table in the db
 delete mysql pod
-access to db once again 
+Test the db again 
+
 
 
 
