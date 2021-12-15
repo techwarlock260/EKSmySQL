@@ -1,7 +1,9 @@
 # EKSmySQL
 Installing mySQL on EKS cluster
 
-Create IAM policy for EBS
+Create IAM policy for EBS:
+
+
 Attached the policy to the worker nodes
 Install the AWS CSI driver
 
